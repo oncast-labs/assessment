@@ -1,0 +1,11 @@
+bin/Debug/*
+bin/Release/*
+obj/Debug/*
+obj/Release/*
+src/Assessment.Test/bin/Debug/*
+src/Assessment.Test/bin/Release/*
+src/Assessment.Test/obj/Debug/*
+src/Assessment.Test/obj/Release/*
+*.user
+*.suo
+src/Assessment/packages/Newtonsoft.Json.6.0.8/*
